@@ -6,8 +6,6 @@
 ***
 This will be the first time you will be rendering something in  3D. For a lot of people this is hard to grasp, and that is completely fine. There are a number of documentations available to learn how to raycast. 
 ***
-
-
 - ## RayCasting
     Raycasting is a rendering technique to create a 3D perspective in a 2D map. Back when computers were slower it wasn't possible to run real 3D engines in realtime, and raycasting was the first solution. Raycasting can go very fast, because only a calculation has to be done for every vertical line of the screen
 	- [x] draw a simple map
@@ -25,9 +23,6 @@ This will be the first time you will be rendering something in  3D. For a lot of
 	- [x] make the ray stop if there are a wall in the next position
 ***
 
-
-
-
 		cos(o) = x/R           &&             sin(o) = y/R
 
 
@@ -37,13 +32,9 @@ This will be the first time you will be rendering something in  3D. For a lot of
 		x = y/tan(o)           &&             y = tan(o)*x
 ***
 
-
-
 - ## Draw Walls
 	- [x] darwing walls
 	- [x] draw walls with texturs
-
-
 ***
 ### determine the coordonate of intersiction with y
 ![](image2.png)
