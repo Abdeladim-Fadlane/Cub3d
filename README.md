@@ -2,9 +2,12 @@
 <div align="center">
   <h1 style="color:blue;font-family:serif;font-style:oblique">CUB3D</h1>
 </div>
+
 #Introduction
+
 ***
 This will be the first time you will be rendering something in  3D. For a lot of people this is hard to grasp, and that is completely fine. There are a number of documentations available to learn how to raycast. 
+
 ***
 - ## RayCasting
     Raycasting is a rendering technique to create a 3D perspective in a 2D map. Back when computers were slower it wasn't possible to run real 3D engines in realtime, and raycasting was the first solution. Raycasting can go very fast, because only a calculation has to be done for every vertical line of the screen
@@ -21,16 +24,6 @@ This will be the first time you will be rendering something in  3D. For a lot of
 				and other one that check if you can  move to this coordinates
 		- [x] `3` choos the coordinates that have a ray __R__ less than other
 	- [x] make the ray stop if there are a wall in the next position
-***
-
-		cos(o) = x/R           &&             sin(o) = y/R
-
-
-		tan(o) = sin(o)/cos(o)      =>        tan(o) = y/x
-
-
-		x = y/tan(o)           &&             y = tan(o)*x
-***
 
 - ## Draw Walls
 	- [x] darwing walls
