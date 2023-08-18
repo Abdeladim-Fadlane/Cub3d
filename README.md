@@ -41,9 +41,8 @@ This will be the first time you will be rendering something in  3D. For a lot of
 
 use this equation to get the coorect distance :
 ***
-###correct distance  = ray_lenght  * cos(beta - delta);
+- ## correct distance  = ray_lenght  * cos(beta - delta);
 beta : player angle (rad)
 delta : ray angle (rad)
-***
 ***
 #### link of github onwer [afadlane](https://github.com/Abdeladim-Fadlane)
