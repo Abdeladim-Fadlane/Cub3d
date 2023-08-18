@@ -3,7 +3,7 @@
   <h1 style="color:blue;font-family:serif;font-style:oblique">CUB3D</h1>
 </div>
 
--##Introduction
+- ## Introduction
 
 ***
 This will be the first time you will be rendering something in  3D. For a lot of people this is hard to grasp, and that is completely fine. There are a number of documentations available to learn how to raycast. 
