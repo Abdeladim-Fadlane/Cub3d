@@ -41,4 +41,4 @@ use this equation to get the coorect distance :
 beta : player angle (rad)
 delta : ray angle (rad)
 ***
-#### link of github onwer [afadlane](https://github.com/Abdeladim-Fadlane)
+#### link of github onwer [github](https://github.com/Abdeladim-Fadlane)
