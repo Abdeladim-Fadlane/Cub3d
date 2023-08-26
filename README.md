@@ -33,10 +33,6 @@ This will be the first time you will be rendering something in  3D. For a lot of
 ![](image2.png)
 ### determine the coordonate of intersiction with x
 ![](image3.png)
-***
-![](https://permadi.com/tutorial/raycast/images/figure15.gif)
-![](https://permadi.com/tutorial/raycast/images/figure16.gif)
-***
 - ## Before drawing the wall, there is one problem that must be taken care of. This problem is known as the “fishbowl effect.” Fishbowl effect happens because ray-casting implementation mixes polar coordinate and Cartesian coordinate together.
 
 use this equation to get the coorect distance :
